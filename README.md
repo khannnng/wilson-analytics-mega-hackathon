@@ -1,1 +1,1 @@
-# wilson-analytics-mega-hackathon
+# Wilson Analytics Mega Hackathon
